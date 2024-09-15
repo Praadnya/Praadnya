@@ -1,4 +1,4 @@
-# Hi there, I'm Prannay! 👋
+# Hello everybody, I'm Praadnya! 👋
 
 As a dedicated and enthusiastic individual, my interests and skills revolve around the exciting fields of Artificial Intelligence, Machine Learning, Data Analytics, Python programming.
 With a passion for problem-solving and continuous learning, I am committed to exploring the frontiers of technology and leveraging these skills to create innovative solutions that positively impact the world. Let's connect and collaborate to shape a smarter and more secure future.
@@ -41,7 +41,7 @@ With a passion for problem-solving and continuous learning, I am committed to ex
 
 ## 🌐 Let's Connect
 
-- LinkedIn: [Praadnya H](https://www.linkedin.com/in/PraadnyaH)
+- LinkedIn: [Praadnya H](https://www.linkedin.com/in/praadnya-h/)
 - Email: hpraadnya@gmail.com
 
 ---
